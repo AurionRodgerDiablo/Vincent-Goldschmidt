@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vincent Goldschmidt
+- 👀 I’m interested in AI, modeling, medical imagerie, biomarkers, LLM, quantic physics etc.
+- 🌱 I’m currently on first year PHD thesis at Paris Saclay University , i'm MD in medical oncology
+- 📫 How to reach me : on my profile or by email
