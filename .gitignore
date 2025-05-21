@@ -1,0 +1,14 @@
+# Ignore editor directories and files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# macOS Finder files
+.DS_Store
+
+# Linux directory navigation file
+*~
+
+# Backup files
+*.bak
